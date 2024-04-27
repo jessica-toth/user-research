@@ -1,7 +1,44 @@
 # How-to Monarch
 ![Monarchlogo](https://github.com/jessica-toth/user-research/blob/main/monarchlogo.svg)
+Monarch is an easy and modern way to manage and track your expenses. 
+- Get familiar with your Spending, Cash Flow, and Investments.
+- Create savings Goals and Budgets.
+- Tie in with partners and financial advisors.
+A holistic product, paired with your strategy, will clarify your choices and help you achieve financial control. 
 
-**Product description**
+## In this guide: :open_book:
+[Understand the big picture](#understand-the-big-picture)
+
+[See individual transactions](#see-individual-transactions)
+
+[Get to know your cash flow](#get-to-know-your-cash-flow)
+
+[Run reports](#run-reports)
+
+[Architect your budget](#architect-your-budget)
+
+[Keep an eye on recurring expenses](#keep-an-eye-on-recurring-expenses)
+
+[Contribute to your goals](#contribute-to-your-goals)
+
+[Tie into your investments](#tie-into-your-investments)
+
+[Take our “smart” advice](#take-our-smart-advice)
+
+[Accept a little, give a little help](#accept-a-little-give-a-little-help)
+
+[Check your notifications](#check-your-notifications)
+
+[Search (everything)](#search-everything)
+
+[Categories Groups and Merchants](#categories-groups-and-merchants)
+
+[Cash Flow vs Spending](#cash-flow-vs-spending)
+
+[Settings](#settings)
+
+
+
 
 
 ## Understand the big picture
@@ -143,7 +180,7 @@ Monarch offers advice based upon the data you have provided.
 ![Advice](https://github.com/jessica-toth/user-research/blob/main/advice.png)
 
 
-## Accept a little help, give a little help
+## Accept a little, give a little help
 The Help and Support section of Monarch gives you the option to share your thoughts about the product or find answers. 
 
 ![Help modal](https://github.com/jessica-toth/user-research/blob/main/help.png)
