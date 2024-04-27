@@ -1,6 +1,7 @@
 # How-to Monarch
 ![](file:/Users/jessicatoth/Documents/Monarch/monarchlogo.svg)
 ![](https://jessica-toth.com/assets/images/monarchlogo.svg)
+![](https://jessica-toth.com/user-research/assets/images/monarchlogo.svg)
 
 
 **Product description**
