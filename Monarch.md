@@ -70,18 +70,15 @@ The Monarch Dashboard offers a snap-shot of your key financial areas (Budget, Sp
 ## See individual transactions
 Transactions are the atomic lifeblood of your financial health. They are your everyday purchases, showing you how you've chosen to spend your money, where, and when. 
 
-- All transactions are shown by default. While two sets of filters can be used to approach and understand your transactions, consider the ones on the right to be more comprehensive. Use the ones on top and on the right in combination with eachother to acheive your desired goal (the transactions you wish to see). 
+- All transactions are shown by default. While two sets of filters can be used to approach and understand your transactions, consider the ones on the right to be more comprehensive. Use the filter on top and on the right in combination with eachother to acheive your desired goal (the transactions you wish to see). 
 - The one distinct filter option is the "Edit multiple" button. This option lets you to take action on multiple transactions at once. 
 - Use the Summary on the bottom right to get a quick, point-in-time perspective of your filtered transactions: 
-  - Total transactions
-  - Largest transaction
-  - Largest expense ....
 
 ![Transactions](https://github.com/jessica-toth/user-research/blob/main/Transactions.png)
 
 
 ## Get to know your cash flow
-If transactions are the atomic lifeblood of your financial health, Cash Flow categories and groups are the molecules. Cashflow is the easiest way to understand how you are spending your money. 
+If transactions are the atomic lifeblood of your financial health, Cash Flow categories and groups are the molecules. Cashflow is the easiest way to understand if you are spending too much each month. 
 
 - Use the Cashflow bar chart to get a clear picture of how Income and Expenses compare each month. 
   - Nuance is important here. If you're tracking Savings as part of your Expenses, then zeroing out each month is OK. In a month where Expenses are greater than Income, that's an area to explore. Go back to your Transactions for that month and see if data are mislabeled. 
@@ -101,10 +98,11 @@ If transactions are the atomic lifeblood of your financial health, Cash Flow cat
 
 [Categories Groups and Merchants](#categories-groups-and-merchants)
 
+[Cash Flow vs Spending](#cash-flow-vs-spending)
 
 
 ## Run reports
-Use reports to better understand your priorities. How you spend your money is what you prioritize. The most useful reports offered are: Spending, Income, and Sankey.
+Use reports to better understand your financial priorities. The most useful reports offered are: Spending, Income, and Sankey.
 
 ### Become familiar with spending
 The Spending report communicates the areas in which you are spending. 
@@ -121,7 +119,7 @@ The Spending report communicates the areas in which you are spending.
 
 
 ### Be conscious of your income
-Hopefully you know how much you are making each month. But are clear on the net amount amount and are there other sources of income you're not considering? As well, is Monarch counting all of your income accurately? Use this function as a check, a confirmation on your assumptions.
+Hopefully you know how much you are making. But are you clear on the net amount and are there other sources of income you're not considering? As well, is Monarch counting all of your income accurately? Use this function as a check, a confirmation on your assumptions.
 
 ![Income](https://github.com/jessica-toth/user-research/blob/main/Income.png)
 
@@ -140,7 +138,7 @@ The Sankey report is the coolest, most intuitive way to understand how your mone
 
 
 ## Architect your budget
-Budgetting can be a controversial topic. But in case you **are** into them, Monarch offers you features to both budget and forecast.
+Budgets can be a controversial topic. But in case you **are** into them, Monarch offers you features to both budget and forecast.
 
 ## Budgeting
 In the Budget tab, you are offered two ways to think about this money management strategy: Income + Expenses. 
@@ -166,7 +164,7 @@ How easy is it to sign-up for $2 of extra storage or a $10 streaming service? Al
 
 
 ## Contribute to your goals
-Save for what's important in your life. Are you still working on an emergency savings goal? Or are these goals met and you aim to keep a regular savings systematically stocked? Make those decisions and then use Monarch help you track your progress. 
+Save for what's important in your life. Have you stocked away an emergency fund? Are you systematically keepiing the coffers full for a separate regular savings? These are important decisions that Monarch can help you track. 
 - Tie your goal to a specific account to bring the goal to life through the "Action" button.
 - Decide on your goal priority, how much you will contribute each month, and your target amount. Make these changes in the Details area.
   
@@ -174,7 +172,7 @@ Save for what's important in your life. Are you still working on an emergency sa
 
 
 ## Tie into your investments
-Investments, separate from Cash Flow and Savings, are a huge part of your health. This feature is especially helpful if your investments live across accounts and/or across members in a household as Monarch will show you a holistic picture. 
+Investments, separate from Cash Flow and Savings, are a huge part of your financial health. This feature is especially helpful if your investments live across accounts and/or across members in a household as Monarch will show you a holistic picture. 
 
 ### Observe investments over time
 - Use the graph to see how your portfolio has been performing over time (from one week to 5 years).
