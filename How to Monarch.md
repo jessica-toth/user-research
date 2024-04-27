@@ -30,13 +30,15 @@ Transactions are the atomic lifeblood of your financial health. They are your ev
 
 
 ## Get to know your cash flow
-If transactions are the atoms, cashflow are the molecules in understanding your finances. Cashflow is the easiest way to understand how you are spending your money. 
+If transactions are the atoms, Cash Flow categories and groups are the molecules in understanding your finances. Cashflow is the easiest way to understand how you are spending your money. 
 
 - Use the Cashflow bar chart to get a clear picture of how Income and Expenses compare each month. 
   - Nuance is important here. If you're tracking Savings as part of your Expenses, then zeroing out each month is OK. In a month where Expenses are greater than Income, that's an area to explore. Go back to your Transactions for that month and see if data are mislabeled. 
 
-- The Expensees horizontal barchart is key to understanding your hightest expenses. 
-  - By default your expenses are set to a Monthly and Category view. .
+- The Expensees horizontal barchart is key to understanding your hightest expenses. By default your expenses are set to a Monthly and Category view.
+  - Use the buttons on top of the Cash Flow page to change your timing view (monthly, quarterly, yearly) or buckets (categories, groups, merchants).
+  - Use the filters to funnel down to specific accounts or tags.
+  - Consider sharing your information and use the this functionality to alter amounts to percentages. 
 
 ![Cashflow bar chart](https://github.com/jessica-toth/user-research/blob/main/Cashflow1.png)
 ![Cashflow categories](https://github.com/jessica-toth/user-research/blob/main/Cashflow2.png)
