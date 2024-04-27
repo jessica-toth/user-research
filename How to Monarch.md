@@ -1,14 +1,10 @@
 # How-to Monarch
-![](file:/Users/jessicatoth/Documents/Monarch/monarchlogo.svg)
-![]([file:/Users/jessicatoth/Documents/Monarch](https://github.com/jessica-toth/user-research)/monarchlogo.svg)
+![Monarchlogo](https://github.com/jessica-toth/user-research/blob/main/monarchlogo.svg)
 
 **Product description**
 
 **Related links:**
-
 [Architect your budget](#architect-your-budget)
-
-
 
 
 ## Start your journey -- come back to this one.
@@ -16,8 +12,8 @@ Decide how you want to start your financial journey using the Monarch Dashboard.
 
 Use the ready-made widgets offered. Click into any of them (Budget, Spending, Net worth, etc) to see details on the subject. 
 Or ge
+![Dashboard](https://github.com/jessica-toth/user-research/blob/main/Dashboard_copy.png)
 
-![Dashboard](file:/Users/jessicatoth/Documents/Monarch/Dashboard_copy.png)
 
 
 ## See individual transactions
@@ -29,8 +25,9 @@ Transactions are the atomic lifeblood of your financial health. They are your ev
   - Total transactions
   - Largest transaction
   - Largest expense ....
- 
-![Transactions](file:/Users/jessicatoth/Documents/Monarch/Transactions.png)
+
+![Transactions](https://github.com/jessica-toth/user-research/blob/main/Transactions.png)
+
 
 ## Get to know your cash flow
 If transactions are the atoms, cashflow are the molecules in understanding your finances. Cashflow is the easiest way to understand how you are spending your money. 
@@ -41,9 +38,9 @@ If transactions are the atoms, cashflow are the molecules in understanding your 
 - The Expensees horizontal barchart is key to understanding your hightest expenses. 
   - By default your expenses are set to a Monthly and Category view. .
 
+![Cashflow bar chart](https://github.com/jessica-toth/user-research/blob/main/Cashflow1.png)
+![Cashflow categories](https://github.com/jessica-toth/user-research/blob/main/Cashflow2.png)
 
-![Cashflow bar chartl](file:/Users/jessicatoth/Documents/Monarch/Cashflow1.png)
-![Cashflow categories](file:/Users/jessicatoth/Documents/Monarch/Cashflow2.png)
 
 **Related links:**
 
