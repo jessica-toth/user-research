@@ -1,7 +1,8 @@
 # How-to Monarch
 ![](file:/Users/jessicatoth/Documents/Monarch/monarchlogo.svg)
 ![](https://jessica-toth.com/assets/images/monarchlogo.svg)
-![](https://github.com/jessica-toth.com/user-research/monarchlogo.svg)
+![](https://github.com/jessica-toth.com/user-research/monarchlogo.svg)  https://github.com/jessica-toth/user-research
+![]([https://github.com/jessica-toth.com/user-research](https://github.com/jessica-toth/user-research)/monarchlogo.svg)
 
 
 **Product description**
