@@ -3,17 +3,20 @@
 
 **Product description**
 
-**Related links:**
-[Architect your budget](#architect-your-budget)
 
-
-## Start your journey -- come back to this one.
-Decide how you want to start your financial journey using the Monarch Dashboard. It's your jumping off point to decide which areas you'd like to dig into further. 
-
-Use the ready-made widgets offered. Click into any of them (Budget, Spending, Net worth, etc) to see details on the subject. 
-Or ge
+## Understand the big picture
+The Monarch Dashboard offers you a snap-shot of your key financial areas (Budget, Spending, Net Worth, Transactions, etc.)
+- Customize the widgets shown by using the component at the top right.
+  
 ![Dashboard](https://github.com/jessica-toth/user-research/blob/main/Dashboard_copy.png)
 
+**Related links:**
+
+[Architect your budget](#architect-your-budget)
+
+[Cash Flow vs Spending](#cash-flow-vs-spending)
+
+[See individual transactions](#see-individual-transactions)
 
 
 ## See individual transactions
@@ -151,6 +154,7 @@ The Help and Support section of Monarch gives you the option to share your thoug
 Use the Help Center to read support articles: Dashboard, Acccounts, Transactions, Plan/Budget, Goals, Investments, Sign-in & Security, or Billing
 - Use the preset categories to find the information you need or the search function.
 - Clicking into an informational category provides you with How-to content, tied to a writer, the date last updated, and an ask to rate the content as helpful/not.
+
 ![Help center](https://github.com/jessica-toth/user-research/blob/main/helpcenter.png)
 
 
@@ -158,6 +162,7 @@ Use the Help Center to read support articles: Dashboard, Acccounts, Transactions
 Contact Support opens up an AI chatbot with Mariposa (Spanish for "butterfly).
 - Use this feature as you would any chatbot but we warned Mariposa takes awhile to respond.
 - Mariposa appears to be a work in progress and is not the most helpful feature in Monarch. Proceed with caution.
+
 ![Chat feature](https://github.com/jessica-toth/user-research/blob/main/chatfeature.png)
 
 
@@ -179,18 +184,28 @@ Notifications can be found at the top of the Monarch site and typically occur in
 
 
 ## Search (everything)
+Monarch's search function offers a robust results. It will return back to you Merchant, Category, and Transactions. It does not return Account nor Goal information (although advertised).
+
 ![Search for anything](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXUxc200NHN4dDMwMXc3bzIzMnZza3Y0d3FrdDB3NDI1M3c3MWRkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IFU5rUgVjW9ePtgn8W/giphy.gif)
 
-## Categories Groups and Merchants
-Groups are bigger than Categories. 
-## Cash Flow vs Spending
 
+## Categories Groups and Merchants
+Across the Monarch product you will have the opportunity to consider your financial landscape (Savings, Cash Flow, Reports) through the lens of Categories, Groups, and Merchants. Merchants, clearly, are the companies you purchase from. Your atomic transactions roll-up to Categories, which then are collapsed into Groups. 
+
+For example, transactions at places such as: Canyon Coffee, Commonplace, and Madeliene's, roll into the "Coffee Shop" Category. This Category is then collapsed (along with Groceries and Restuarants & Bars) into the Group, "Food and Dining."
+
+## Cash Flow vs Spending
+You spend money. You make money. This is the view that Cash Flow takes. It considers what's coming in and what's coming out and asks, "What's the difference?"
+Spending is a little different. It is a subset of Cash Flow and looks only at the money you spend. It asks, "What are we spending our money on?" 
 
 
 ## Settings
-
--   Account
+Use Setting to make changes to your Account or Household.
+###Account
+Alter your account in minor ways through display changes or more meaningful ways by changing your notification or security preferences.
     
--   Household
-    
--   Profile
+###Household
+- A special feature of Monarch is the ability to add household members and financial advisors. This is at no extra cost.
+- Add institutions here or check on current institution connections.
+- Alter your categories selections (edit, delete, add, change emojis!)
+- Create tags.
