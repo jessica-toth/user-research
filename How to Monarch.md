@@ -113,34 +113,70 @@ How easy is it to sign-up for $2 of extra storage or a $10 streaming service? Al
 
 
 ## Contribute to your goals
-Save for your 
+Save for what's important in your life. Are you still working on an emergency savings goal? Or are these goals met and you aim to keep a regular savings systematically stocked? Make those decisions and then use Monarch help you track your progress. 
+- Tie your goal to a specific account to bring the goal to life.
+- Decide on your goal priority, how much you will contribute each month, and your target amount.
+  
 ![Goal setting](https://github.com/jessica-toth/user-research/blob/main/goalsetting.png)
 
 
 ## Tie into your investments
-![Investment trend](file:/Users/jessicatoth/Documents/Monarch/investments1.png)
-![Investment holdings](file:/Users/jessicatoth/Documents/Monarch/investments2.png)
+Investments, separate from Cash Flow and Savings, are a huge part of your health. This feature is especially helpful if you're investments live across accounts and/or across members in a household because it provides you with a holistic picture. 
+- Use the graph to see how your portfolio has been performing over time (from one week to 5 years).
+- Compare your holdings agains the S&P 500 as a benchmark in the same graph, using the same timeframes.
+- Filter to specific accounts to understand how individual account performance is contributing to an overall portfolio.
+  
+![Investment trend](https://github.com/jessica-toth/user-research/blob/main/investments1.png)
+
+Dig deeper. Each of your accounts is made up specific holdings, and grouped by security type (exchange traded funds, mutual funds, stocks, and cash). 
+Scroll through to see how much the holding is contributing to your portfolio (price and value) and how well it has been performing. 
+![Investment holdings](https://github.com/jessica-toth/user-research/blob/main/investments2.png)
+
 
 ## Take our “smart” advice
-![Advice](file:/Users/jessicatoth/Documents/Monarch/advice.png)
+Monarch offers advice based upon the data you have provided. 
+- Click into any of the suggestions to get a longer description of the subject and a task list to follow.
+
+![Advice](https://github.com/jessica-toth/user-research/blob/main/advice.png)
+
 
 ## Accept a little help, give a little help
-![Help modal](file:/Users/jessicatoth/Documents/Monarch/help.png)
+The Help and Support section of Monarch gives you the option to share your thoughts about the product or find answers. 
+
+![Help modal](https://github.com/jessica-toth/user-research/blob/main/help.png)
+
+
 
 ### Use our help center
-![Help center](file:/Users/jessicatoth/Documents/Monarch/helpcenter.png)
+Use the Help Center to read support articles: Dashboard, Acccounts, Transactions, Plan/Budget, Goals, Investments, Sign-in & Security, or Billing
+- Use the preset categories to find the information you need or the search function.
+- Clicking into an informational category provides you with How-to content, tied to a writer, the date last updated, and an ask to rate the content as helpful/not.
+![Help center](https://github.com/jessica-toth/user-research/blob/main/helpcenter.png)
 
-### Let us know which features you want
-![Feature request](file:/Users/jessicatoth/Documents/Monarch/featurerequests.png)
 
 ### Get in touch with us
-writing 
+Contact Support opens up an AI chatbot with Mariposa (Spanish for "butterfly).
+- Use this feature as you would any chatbot but we warned Mariposa takes awhile to respond.
+- Mariposa appears to be a work in progress and is not the most helpful feature in Monarch. Proceed with caution.
+![Chat feature](https://github.com/jessica-toth/user-research/blob/main/chatfeature.png)
 
-![Chat feature](file:/Users/jessicatoth/Documents/Monarch/chatfeature.png)
+
+### Let us know which features you want
+The Feature Request function shows you ideas already offered, features in progress, up next, or released. This function also gives you the opportunity to offer your own idea.
+- Clicking into ideas submitted will provide the details of the idea, who submitted, and when. You can also vote on its importance to you.
+- Idea information (idea details, submission owner, submission date) is again available when clicking into "Up next" or "Inp Progress."
+- As ideas are released, more information is available: graphics, comments. 
+
+![Feature request](https://github.com/jessica-toth/user-research/blob/main/featurerequests.png)
 
 
 ## Check your notifications
-![Notifications](file:/Users/jessicatoth/Documents/Monarch/notifications.png)
+Notifications can be found at the top of the Monarch site and typically occur in four types: Recurring charge, Deposit alert, Expense alert, and Transactions needs review. 
+- Stay on top of your notifications to get the most out of the Monarch product.
+- Click into the notification to get more details and close it out.
+
+![Notifications](https://github.com/jessica-toth/user-research/blob/main/notifications.png)
+
 
 ## Search (everything)
 ![Search for anything](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXUxc200NHN4dDMwMXc3bzIzMnZza3Y0d3FrdDB3NDI1M3c3MWRkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IFU5rUgVjW9ePtgn8W/giphy.gif)
