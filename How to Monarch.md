@@ -48,23 +48,40 @@ If transactions are the atoms, Cash Flow categories and groups are the molecules
 
 [See individual transactions](#see-individual-transactions)
 
-[Categories and groups](#categories-and-groups)
+[Categories Groups and Merchants](#categories-groups-and-merchants)
 
 ## Run reports
-Short description
+Reports offer you a way to drill into spending in various ways. How you spend your money is what you prioritize. Use reports to better understand your priorities. The most useful reports offered are: Spending, Income, and Sankey.
 
 ### Become familiar with spending
-![Spending by category](file:/Users/jessicatoth/Documents/Monarch/spendingbycategory.png)
+The focus of Spending reports is on communicating the areas in which you are spending. 
+- Use the top drop-down to decide which view to focus on: Category, Group, or Merchant
+- Use additional features at the top of the Reports page to alter the graph type, filter accounts, change the timing, and many other elements.
+
+![Spending by category](https://github.com/jessica-toth/user-research/blob/main/spendingbycategory.png)
+
+**Related links:**
+
+[Cash Flow vs Spending](#cash-flow-vs-spending) 
+
+[Categories Groups and Merchants](#categories-groups-and-merchants)
 
 
 ### Be conscious of your income
-![Income](file:/Users/jessicatoth/Documents/Monarch/Income.png)
+Hopefully you know how much you are making each month. But are you aware of the net amount amount and are there other sources of income you're not considering? As well, is Monarch counting all of your income accurately. Use this function as a check, a confirmation on your assumptions.
 
+![Income](https://github.com/jessica-toth/user-research/blob/main/Income.png)
 
 
 ### Watch your money flow
-![Sankey diagram](file:/Users/jessicatoth/Documents/Monarch/Sankeydiagram.png)
+The Sankey report is the coolest, most intuitive way to understand how your money is being spent. The greater the spending area (Group or Category) in terms of dollars, the larger the area on the screen.
+- Start with Groups to more easily see your expenditures. Note these are not stacked top to bottom (greater to least). 
+- Choose Both to understand how Groups breaks down into smaller units of Categorial units. 
+![Sankey diagram](https://github.com/jessica-toth/user-research/blob/main/Sankeydiagram.png)
 
+**Related links:**
+
+[Categories Groups and Merchants](#categories-groups-and-merchants)
 
 ## Architect your budget
 ![Create a budget](file:/Users/jessicatoth/Documents/Monarch/budget.png)
@@ -106,7 +123,8 @@ writing
 ## Search (everything)
 ![Search for anything](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXUxc200NHN4dDMwMXc3bzIzMnZza3Y0d3FrdDB3NDI1M3c3MWRkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IFU5rUgVjW9ePtgn8W/giphy.gif)
 
-## Categories and Groups
+## Categories Groups and Merchants
+## Cash Flow vs Spending
 
 
 
